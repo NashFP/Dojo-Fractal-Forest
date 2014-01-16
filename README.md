@@ -1,7 +1,7 @@
-Dojo-Fractal-Forest
+Fractal Forest Dojo
 ===================
 
-Forked from Mathias Brandewinder's Fractal Forest Dojo. Contribute your solution by adding a folder named {your twitter handle}+{your language} such as:
+Forked from Mathias Brandewinder's F# Fractal Forest Dojo. Contribute your solution by adding a folder named {your twitter handle}+{your language} such as:
 
 ````
 /bryan_hunter+fsharp/tree1.fsx
